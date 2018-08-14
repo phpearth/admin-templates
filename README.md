@@ -45,4 +45,16 @@ Current list of templates:
 
 * [Nopaste](nopaste.txt)
 
-  Template used on occasions where code should be shared using 3rd party nopaste sites.
+  Template used on occasions where code should be shared using 3rd party nopaste
+  sites.
+
+* Personal contact information
+
+  The following templates are used on occasions where private information has been
+  shared.
+
+  * [Advanced](personal-contact-info-advanced.txt)
+  * [Comment reply](personal-contact-info-comment-reply.txt)
+  * [Multiple generic 1](personal-contact-info-multiple-generic-1.txt)
+  * [Multiple generic 2](personal-contact-info-multiple-generic-2.txt)
+  * [Private message](personal-contact-info-pm.txt)

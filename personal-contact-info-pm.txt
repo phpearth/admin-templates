@@ -1,0 +1,14 @@
+Hi,
+
+Your post to the PHP group ("[Post Content]"), has been deleted, due to containing your personal information.
+
+Please refer to our Code of Conduct, located here -> https://conduct.php.earth
+
+"Personal data (emails, phone numbers, WhatsApp numbers, Skype identities or addresses in general) are explicitly not allowed in the group and will end in any case with a permanent removal of your membership(/s)."
+
+If you want to try posting again, you may do so, but please refrain from including personal contact details such as phone numbers or personal email addresses. This is for your own protection: Our group is very large, and we can't guarantee that all members have joined with good intentions, and by posting personal contact details, you risk being contacted by members for undesirable reasons beyond the reasons intended by your post.
+
+Business contact information is permitted, however.
+
+Kind regards,
+[Staff Member].
