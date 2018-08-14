@@ -11,3 +11,8 @@ Current list of templates:
 
   This answer is given in some cases where there is a notice from FB on the post
   saying `attachment unavailable`.
+
+* [books](books.txt)
+
+  This comment is added when someone shares books that shouldn't be distributed
+  by sharing them online on 3rd party sites.

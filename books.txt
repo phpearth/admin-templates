@@ -1,0 +1,9 @@
+Hello,
+
+your post has been removed because it contained a link to books or resources that should be bought elsewhere. You should really check the license of the material you want to share like this.
+
+In case you didn't know, writing a good programming book can take up to several thousand hours and these books can be written by your colleagues who are browsing this group or that site. So definitely not very professional nor ethical to share it like that.
+
+Instead, you should support the authors and buy the books or reach out for open source books.
+
+Thank you for not distributing books like this in the future and being ethical.
