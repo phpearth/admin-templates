@@ -3,18 +3,24 @@
 These are some common templates and examples for giving repeated answers in the
 [PHP group on Facebook](https://www.facebook.com/groups/2204685680/).
 
-Some templates also include optional image to be attached at the answer:
+Some templates also include optional image to be attached at the answer.
+
+Note that these are optional for each admin to use as they want. User should not
+expect to receive these templates every time for every case since each situation
+is different. However, these might help administrators manage group better and
+simpler.
 
 Current list of templates:
 
 * [Attachment unavailable](attachment-unavailable.txt)
 
-  This answer is given in some cases where there is a notice from FB on the post
-  saying `attachment unavailable`.
+  This template is given in some cases where there is a notice from FB on the
+  post saying `attachment unavailable`. There is also
+  [image](attachment-unavailable.png) coming with this template.
 
-* [books](books.txt)
+* [Books](books.txt)
 
-  This comment is added when someone shares books that shouldn't be distributed
+  This template is added when someone shares books that shouldn't be distributed
   by sharing them online on 3rd party sites.
 
 * [Caps lock](caps-lock.txt)
@@ -54,8 +60,8 @@ Current list of templates:
 
 * Personal contact information
 
-  The following templates are used on occasions where private information has been
-  shared.
+  The following templates are used on occasions where private information has
+  been shared.
 
   * [Advanced](personal-contact-info-advanced.txt)
   * [Comment reply](personal-contact-info-comment-reply.txt)
