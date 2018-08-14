@@ -37,3 +37,8 @@ Current list of templates:
 
   This template is used for possible bot accounts that post without participating
   in other discussions or don't answer questions on their own posts.
+
+* [Questions about hacks and breaches without enough information](help-no-details-given.txt)
+
+  This template is used for questions and issues involving security, breaches,
+  hacks of sites and similar where not enough information was given.
