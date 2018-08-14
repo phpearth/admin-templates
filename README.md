@@ -42,3 +42,7 @@ Current list of templates:
 
   This template is used for questions and issues involving security, breaches,
   hacks of sites and similar where not enough information was given.
+
+* [Nopaste](nopaste.txt)
+
+  Template used on occasions where code should be shared using 3rd party nopaste sites.

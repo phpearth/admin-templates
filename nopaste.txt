@@ -1,0 +1,9 @@
+Hello,
+
+For sharing code use nopaste service such as Gist.
+
+Please do use a nopaste service for code snippets, instead of posting screenshots or raw code here.  We always recommend to share source code using nopaste service to grant the best possible readability.
+
+A list of recommended nopaste services: https://docs.php.earth/interop/nopaste
+
+Thank you for your time and your understanding.
