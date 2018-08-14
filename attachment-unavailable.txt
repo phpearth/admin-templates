@@ -1,7 +1,6 @@
 Hello,
 
-it says attachment unavailable. This in most cases happens due to a share done
-from a closed group or event or a resource with limited view.
+it says attachment unavailable. This in most cases happens due to a share done from a closed group or event or a resource with limited view.
 
 Please check and enable the view for public audience so we can all see it.
 
