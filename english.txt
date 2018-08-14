@@ -1,14 +1,12 @@
-Hi,
+Hello,
 
-Thank you for sharing this with us. However, please note that the Code of Conduct for this group requires that all communication be conducted in English:
+Thank you for sharing your post with us. However, please note that this group requires all communication to be conducted in English.
 
 https://conduct.php.earth
 
 "Post in English only."
 
 We don't require perfection, but we would appreciate it for you to attempt to use English for next time. If English is not your first language, or if you lack confidence, translation services such as Google Translate may be able to assist you.
-
-This discussion is hereby locked.
 
 Thank you for your understanding.
 
