@@ -16,3 +16,19 @@ Current list of templates:
 
   This comment is added when someone shares books that shouldn't be distributed
   by sharing them online on 3rd party sites.
+
+* [English](english.txt)
+
+  Template for non-English posts and comments.
+
+  Also available in other languages and formats:
+
+  * [Arabic](english-arabic.txt)
+  * [French](english-french.txt)
+  * [Indonesian](english-indonesian.txt)
+  * [Khmer](english-khmer.txt)
+  * [Lovecraft](english-lovecraft.txt)
+  * [Portuguese](english-portuguese.txt)
+  * [Russian](english-russian.txt)
+  * [Spanish](english-spanish.txt)
+  * [Viatnamese](english-viatnamese.txt)
