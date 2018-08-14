@@ -1,0 +1,5 @@
+Hi [Member Name]. :-)
+
+You are hereby requested to complete a Turing test, as a means to confirm whether you are a human or a spambot. Failing this test will result in us assuming that you are a spambot, and thus will result in your membership being revoked. To pass this test, all you are required to do is simply reply to this comment, to indicate that you have read this comment and understand its meaning (any message will suffice; a simple "I am not a spambot", "I am human" or "I have read your message" will suffice). Any reply to this comment will be considered a pass. Failure to reply will be considered a fail. Thank you.
+
+https://en.wikipedia.org/wiki/Turing_test

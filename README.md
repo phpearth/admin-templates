@@ -32,3 +32,8 @@ Current list of templates:
   * [Russian](english-russian.txt)
   * [Spanish](english-spanish.txt)
   * [Viatnamese](english-viatnamese.txt)
+
+* [Turing test](turing-test.txt)
+
+  This template is used for possible bot accounts that post without participating
+  in other discussions or don't answer questions on their own posts.
