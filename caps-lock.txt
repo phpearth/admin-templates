@@ -1,0 +1,7 @@
+Hello,
+
+sorry to bother you about this, however it is quite useful to know this and improve it. Please note that writing everything in CAPS LOCK on the internet means that you are shouting. It's also considered impolite to write like this. For more information how to properly communicate your message in these FB groups, mailing lists, and forums see RFC 1855 [1].
+
+[1]: https://www.ietf.org/rfc/rfc1855.txt
+
+Thank you.

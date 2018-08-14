@@ -17,6 +17,10 @@ Current list of templates:
   This comment is added when someone shares books that shouldn't be distributed
   by sharing them online on 3rd party sites.
 
+* [Caps lock](caps-lock.txt)
+
+  Template for using it on posts that use CAPS LOCK writing style (shouting).
+
 * [English](english.txt)
 
   Template for non-English posts and comments.
