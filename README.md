@@ -68,3 +68,9 @@ Current list of templates:
   * [Multiple generic 1](personal-contact-info-multiple-generic-1.txt)
   * [Multiple generic 2](personal-contact-info-multiple-generic-2.txt)
   * [Private message](personal-contact-info-pm.txt)
+
+* [Gender equality](gender-equality.txt)
+
+  We're tackling a huge gender equality issues our way. The educational way.
+  Before eliminating or ignoring the problem, we educate users with this template
+  on a dedicated gender equality post.
