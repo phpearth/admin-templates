@@ -74,3 +74,7 @@ Current list of templates:
   We're tackling a huge gender equality issues our way. The educational way.
   Before eliminating or ignoring the problem, we educate users with this template
   on a dedicated gender equality post.
+
+* [Welcome](welcome.txt)
+
+  Template to welcome new member in case that comes up.

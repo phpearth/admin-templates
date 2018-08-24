@@ -1,0 +1,13 @@
+Hello and welcome in the PHP group.
+
+There are many frequently asked PHP related questions answered at
+https://docs.php.earth with further links to good resources.
+
+Don't forget to visit also group page at https://php.earth for more info about
+PHP in general and group rules.
+
+In case of questions just ask.
+
+In case of issues ping admins.
+
+Good to have you here and enjoy your stay.
