@@ -34,6 +34,7 @@ Current list of templates:
   Also available in other languages and formats:
 
   * [Arabic](english-arabic.txt)
+  * [Bengali](bengali.txt)
   * [French](english-french.txt)
   * [Indonesian](english-indonesian.txt)
   * [Khmer](english-khmer.txt)
