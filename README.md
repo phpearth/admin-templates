@@ -79,3 +79,7 @@ Current list of templates:
 * [Welcome](welcome.txt)
 
   Template to welcome new member in case that comes up.
+
+* [Questions](questions.txt)
+
+  Template when question is asked inadequately.

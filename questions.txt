@@ -1,0 +1,7 @@
+Hello, thank you for asking your question.
+
+Please note that in order to help you properly you will need to provide us more information about this issue. There is also a nice and user friendly guide available at the group page [1] how to ask questions to get best possible experience.
+
+Thank you.
+
+[1]: https://php.earth/questions
