@@ -1,10 +1,21 @@
-Hello and welcome in the PHP group.
+Hello and welcome in the group.
 
-There are many frequently asked PHP related questions answered at
+There are many frequently asked questions answered at
 https://docs.php.earth with further links to good resources.
 
-Don't forget to visit also group page at https://php.earth for more info about
-PHP in general and group rules.
+To start with PHP and web development this chapter introduces good resources for first steps and where to go from there:
+https://docs.php.earth/faq/intro/what-is-php/
+
+Don't forget to visit also group page at
+https://php.earth for more info about PHP in general and group rules.
+
+Group rules in short:
+- Be nice and respectful to others.
+- Post in English.
+- Be professional. Aim for good quality in questions and discussions.
+- For sharing code use nopaste service.
+- Publish only PHP and web-centric development related topics.
+- Job offers have to be PHP or web development related.
 
 In case of questions just ask.
 
