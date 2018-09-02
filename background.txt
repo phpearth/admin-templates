@@ -1,0 +1,17 @@
+Hello,
+
+thank you for sharing your post with us. Please note that using backgrounds in Facebook groups degrades readability a bit. Specially if these backgrounds include extremely prominent colors such as red or pink.
+
+For questions and text posts using normal white background increases overall group readability.
+
+Unfortunately at the time of this writing there is no way to disable this feature on a group level yet.
+
+We've done also a quick survey. [1]
+
+More useful information is available in the group guides [1] and in the RFC 1855 [3] how to communicate in these groups, forums, or mailing lists in general.
+
+Thank you for maybe considering adjusting your posting next time and using a normal background.
+
+[1]: https://www.facebook.com/groups/2204685680/permalink/10157065235520681/
+[2]: https://php.earth
+[3]: https://www.ietf.org/rfc/rfc1855.txt

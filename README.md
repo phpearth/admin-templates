@@ -83,3 +83,7 @@ Current list of templates:
 * [Questions](questions.txt)
 
   Template when question is asked inadequately.
+
+* [Background](background.txt)
+
+  Template for posts with prominent backgrounds (red, pink, etc.)
