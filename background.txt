@@ -12,6 +12,6 @@ More useful information is available in the group guides [2] and in the RFC 1855
 
 Thank you for maybe considering adjusting your posting next time and using a normal background.
 
-[1]: https://www.facebook.com/groups/2204685680/permalink/10157065235520681/
+[1]: https://fb.com/groups/2204685680/permalink/10157065235520681
 [2]: https://php.earth
 [3]: https://www.ietf.org/rfc/rfc1855.txt
