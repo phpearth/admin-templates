@@ -1,21 +1,22 @@
 Hello,
 
-Thank you for sharing your post with us. Please note that this group requires all communication to be conducted in English.
-
-https://conduct.php.earth
-
-"Post in English only."
+Thank you for sharing your post with us. Please note that this group requires all communication to be conducted in English. [1]
 
 We don't require perfection, but we would appreciate it for you to attempt to use English for next time. If English is not your first language, or if you lack confidence, translation services such as Google Translate may be able to assist you.
 
-Why only English?
+Non-English video tutorials should at least include English subtitles so we know what the presentation is about.
 
-Facebook provides an automatic translation feature for some languages. In some cases, it might seem like a good idea to allow discussions in other languages as well. However, not all languages are properly supported by automatic translation tool and some words would not be translated properly. For cases, where admin actions would be required (insults, hate speech and similar), it would be impossible to properly address such situations.
+Why only English?
 
 People in the group are located from all over the world, so English is a standard language used for such cases.
 
-However, PHP community provides and encourages all the support for linguistic diversity for local user groups via https://php.ug, where you should join, support or add your local user group with your preferred language.
+Facebook provides an automatic translation feature for some languages. In some cases, it might seem like a good idea to allow discussions in other languages as well. However, not all languages are properly supported by automatic translation tool and some words would not be translated properly. For cases, where admin actions would be required (insults, hate speech and similar), it would be impossible to properly address such situations.
+
+However, PHP community provides and encourages all the support for linguistic diversity for local user groups via PHP.ug [2], where you should join, support or add your local user group with your preferred language.
 
 Thank you for your understanding.
 
 Kind regards.
+
+[1] https://conduct.php.earth
+[2] https://php.ug
